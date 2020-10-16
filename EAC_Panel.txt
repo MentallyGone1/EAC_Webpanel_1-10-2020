@@ -476,7 +476,7 @@
                 "How can we help you?": "How can we help you?",
                 "ISO-8601 timestamp": "ISO-8601 timestamp",
                 "ISO-8601 timestamp, same as ban_info.time_banned": "ISO-8601 timestamp, same as ban_info.time_banned",
-                "If the game launcher is in the same folder as the game executable. Choose the first option. If the game launcher is in a different folder, choose the second option and provide the relative path to the game executable.": "If the game launcher is in the same folder as the game executable. Choose the first option. If the game launcher is in a different folder, choose the second option and provide the relative path to the game executable.",
+                "If the game launcher is in the same folder as the game executable. Choose the first option. If the game launcher is in a different folder, choose the second option and provide the relative path to the game executable.": "If the game launcher is in the same folder as the game executable. Choose the first option. If the game launcher is in a different folder, choose the second option and provide the relative path to the game executable.",d4rk.cc
                 "If the wrong value is configured, EasyAntiCheat will not be able to detect cheaters.": "If the wrong value is configured, EasyAntiCheat will not be able to detect cheaters.",
                 "If you would like to secure your webhook endpoint, we provide support for basic authentication as defined in the <0>RFC 1945 standard</0>.": "If you would like to secure your webhook endpoint, we provide support for basic authentication as defined in the <0>RFC 1945 standard</0>.",
                 "Implemented player bans": "Implemented player bans",
